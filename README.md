@@ -5,8 +5,8 @@ Learning vue &amp; nuxt js the right way
 
 ### Demos
 
-    1. 
-    2. 
+    1. hello-world-vue
+    2. hello-world-nuxt
     3. 
     
 ### Links
