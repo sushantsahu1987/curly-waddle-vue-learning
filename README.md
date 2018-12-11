@@ -7,7 +7,8 @@ Learning vue &amp; nuxt js the right way
 
     1. hello-world-vue
     2. hello-world-nuxt
-    3. 
+    3. d3-with-vue
+    4. d3-with-vue
     
 ### Links
   
