@@ -18,7 +18,10 @@ Learning vue &amp; nuxt js the right way
     
 ### Help
 
-    1.
-    2.
+    1. D3 with vuejs
+       https://medium.com/tyrone-tudehope/composing-d3-visualizations-with-vue-js-c65084ccb686
+        
+    2. 
+    
     3.
     
